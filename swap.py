@@ -13,6 +13,7 @@ x, y = y, x
 print("x =", x)
 print("y =", y)
 
+
 x = int(input('Enter value of x: '))
 y = int(input('Enter value of y: '))
 x = x + y
@@ -21,6 +22,7 @@ x = x - y
 print("x =",x)
 print("y =", y)
 
+
 x = int(input('Enter value of x: '))
 y = int(input('Enter value of y: '))
 x = x * y
@@ -28,6 +30,7 @@ y = x // y
 x = x // y
 print("x =",x)
 print("y =", y)
+
 
 x = int(input('Enter value of x: '))
 y = int(input('Enter value of y: '))
